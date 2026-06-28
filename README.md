@@ -1,7 +1,7 @@
 # sakila-crud-orm
 Caso Práctico 2 MACDIA — CRUD/ORM nativo en Python sobre MySQL Sakila
 
-=========================================================================
+=================================================
    UNIVERSIDAD AUTÓNOMA DE SANTO DOMINGO (UASD)
    FACULTAD DE CIENCIAS - MAESTRÍA EN DATA SCIENCE & AI
    ASIGNATURA: CIENCIA DE DATOS I - GRUPO PETER NAUR
