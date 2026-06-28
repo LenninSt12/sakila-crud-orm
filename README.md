@@ -16,7 +16,7 @@ a la de desarrollo original (cambios de rutas y credenciales de MySQL).
 -------------------------------------------------------------------------
 SECCIÓN CRÍTICA: AJUSTES PREVIOS ANTES DE CORRER LOS ARCHIVOS .PY
 -------------------------------------------------------------------------
-Para evitar errores de conexión ("Access Denied") o fallos de rutas 
+**Para evitar errores de conexión ("Access Denied") o fallos de rutas 
 inexistentes ("FileNotFoundError"), abra los archivos en su editor de 
 código (VS Code, PyCharm, etc.) y modifique los siguientes parámetros:
 
@@ -36,7 +36,7 @@ código (VS Code, PyCharm, etc.) y modifique los siguientes parámetros:
          que el script deposite las imágenes PNG generadas de las gráficas.
    * Ubique la línea de credenciales del servidor:
      PASSWORD = urllib.parse.quote_plus("admin")
-     --> Cambie "admin" por la contraseña correspondiente a su motor MySQL local.
+     --> Cambie "admin" por la contraseña correspondiente a su motor MySQL local.**
 
 -------------------------------------------------------------------------
 Paso 1: Configuración de la Base de Datos en MySQL Workbench
